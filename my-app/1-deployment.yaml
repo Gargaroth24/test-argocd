@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: gargaroth24/nginx:v0.1.0
+          image: gargaroth24/nginx:v0.1.1
           ports:
             - containerPort: 80
